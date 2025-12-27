@@ -1,0 +1,7 @@
+{
+  "name": "SQUIZY: De Ultieme AI Quiz Ervaring",
+  "description": "Een interactieve, AI-gestuurde quiz voor 4 spelers met unieke rondes zoals SQUICKY DOE, Breinbrekers en Muziek Maestro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
